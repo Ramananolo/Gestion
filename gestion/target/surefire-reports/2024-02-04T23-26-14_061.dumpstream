@@ -1,0 +1,5 @@
+# Created at 2024-02-04T23:26:14.920
+Boot Manifest-JAR contains absolute paths in classpath 'E:\PROG4\gestio_s-p_prond\gestion\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
